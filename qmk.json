@@ -1,4 +1,8 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["keebio/sinc/rev3", "lickel"],
+        ["keebio/sinc/rev4", "lickel"],
+        ["keebio/bdn9/rev2", "lickel"]
+    ]
 }
